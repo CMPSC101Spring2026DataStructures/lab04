@@ -11,8 +11,6 @@ Welcome to your programming assignment for CS101! In this lab, you will complete
 * __Expiration__: Friday, 27 Feb 2026 at 2:35pm
 Note: the *expiration* date is the last date you can submit your work for a grade.
 
-![--- --- --- --- --- --- --- --- ---](graphics/div_bar.png)
-
 ![rock_paper_scissors logo](graphics/rock_paper_scissors.png)
 
 Table of Contents
