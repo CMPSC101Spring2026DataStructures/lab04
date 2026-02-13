@@ -13,10 +13,11 @@ Note: the *expiration* date is the last date you can submit your work for a grad
 
 ![rock_paper_scissors logo](graphics/rock_paper_scissors.png)
 
-Table of Contents
+## Table of Contents
 - [CS101 Spring 2026: Lab 04](#cs101-spring-2026-lab-04)
   - [Assignment: Build Your Own Game of *Rock, Paper, Scissors*!](#assignment-build-your-own-game-of-rock-paper-scissors)
   - [Assigned and Due](#assigned-and-due)
+  - [Table of Contents](#table-of-contents)
   - [Project Goals](#project-goals)
   - [Project Overview](#project-overview)
     - [Refactor and Rewrite the Source Code](#refactor-and-rewrite-the-source-code)
