@@ -1,4 +1,4 @@
-# # CS101 Spring 2026: Lab 04
+# CS101 Spring 2026: Lab 04
 
 ## Assignment: Build Your Own Game of *Rock, Paper, Scissors*!
 
@@ -16,7 +16,7 @@ Note: the *expiration* date is the last date you can submit your work for a grad
 ![rock_paper_scissors logo](graphics/rock_paper_scissors.png)
 
 Table of Contents
-- [# CS101 Spring 2026: Lab 04](#-cs101-spring-2026-lab-04)
+- [CS101 Spring 2026: Lab 04](#cs101-spring-2026-lab-04)
   - [Assignment: Build Your Own Game of *Rock, Paper, Scissors*!](#assignment-build-your-own-game-of-rock-paper-scissors)
   - [Assigned and Due](#assigned-and-due)
   - [Project Goals](#project-goals)
